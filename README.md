@@ -1,1 +1,1 @@
-# Practics group 3
+# MY first site with using React
